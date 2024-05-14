@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I've done  3 prior software engineering internships<br>📚 I'm currently studying software engineering and data analytics at Waterloo<br>Check out my <a href="https://hasan-khan-portfolio.netlify.app">portfolio website!</a></p>
+<p align="left">✨ I've done  3 prior software engineering internships<br>📚 I'm currently studying software engineering and data analytics at Waterloo<br><br>Check out my <a href="https://hasan-khan-portfolio.netlify.app">portfolio website!</a></p>
 
 ###
 
