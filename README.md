@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm an Engineering student at the University of Waterloo, passionate about exploring the world of software development and machine learning</p>
+<p align="left">Engineering student at the University of Waterloo, building projects in software development and AI/machine learning with a focus on real-world impact.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I've done 5 prior software engineering internships<br>📚 I'm currently studying software engineering and data analytics at Waterloo<br><br>Check out my <a href="https://hasan-khan-portfolio.netlify.app">portfolio website!</a></p>
+<p align="left">✨ I've done 5 prior AI/software engineering internships<br>📚 I'm currently studying software engineering and artificial intelligence at Waterloo<br><br>Check out my <a href="https://hasan-khan-portfolio.vercel.app">portfolio website!</a></p>
 
 ###
 
